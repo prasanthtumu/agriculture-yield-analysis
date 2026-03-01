@@ -64,6 +64,17 @@ Dashboard Structure:
 
 •	Strategic Insights – Long-term growth and decline analysis
 
+Dashboard Preview
+
+🔹 Overview
+![Overview](screenshots/overview.png)
+
+🔹 Climate & Input Analysis
+![Climate](screenshots/climate_input.png)
+
+🔹 Strategic Insights
+![Strategic](screenshots/strategic_insights.png)
+
 Repository Contents:
 
 •	Power BI Dashboard (.pbix)
