@@ -70,10 +70,10 @@ Dashboard Preview
 ![Overview](screenshots/Overview.png)
 
 🔹 Climate & Input Analysis
-![Climate](screenshots/Climate & Input Analysis.png)
+![Climate](screenshots/Climate_&_Input_Analysis.png)
 
 🔹 Strategic Insights
-![Strategic](screenshots/Strategic Insights.png)
+![Strategic](screenshots/Strategic_Insights.png)
 
 Repository Contents:
 
