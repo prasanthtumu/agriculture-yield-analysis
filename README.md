@@ -70,7 +70,7 @@ Dashboard Preview
 ![Overview](screenshots/Overview.png)
 
 🔹 Climate & Input Analysis
-![Climate](screenshots/Climate_&_Input_Analysis.png)
+![Climate](screenshots/Climate & Input Analysis.png)
 
 🔹 Strategic Insights
 ![Strategic](screenshots/Strategic_Insights.png)
