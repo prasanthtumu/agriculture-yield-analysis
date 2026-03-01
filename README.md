@@ -67,13 +67,13 @@ Dashboard Structure:
 Dashboard Preview
 
 🔹 Overview
-![Overview](screenshots/overview.png)
+![Overview](screenshots/Overview.png)
 
 🔹 Climate & Input Analysis
-![Climate](screenshots/climate_input.png)
+![Climate](screenshots/Climate & Input Analysis.png)
 
 🔹 Strategic Insights
-![Strategic](screenshots/strategic_insights.png)
+![Strategic](screenshots/Strategic Insights.png)
 
 Repository Contents:
 
