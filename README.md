@@ -58,21 +58,21 @@ Business Recommendations:
    
 Dashboard Structure:
 
-	Overview – State-level KPIs and production distribution
+•	Overview – State-level KPIs and production distribution
 
-	Climate & Input Analysis – Seasonal trends and yield variability
+•	Climate & Input Analysis – Seasonal trends and yield variability
 
-	Strategic Insights – Long-term growth and decline analysis
+•	Strategic Insights – Long-term growth and decline analysis
 
-	Repository Contents:
+Repository Contents:
 
-	Power BI Dashboard (.pbix)
+•	Power BI Dashboard (.pbix)
 
-	SQL Queries
+•	SQL Queries
 
-	Cleaned Dataset
+•	Cleaned Dataset
 
-	Dashboard Screenshots
+•	Dashboard Screenshots
 
 Conclusion:
 
