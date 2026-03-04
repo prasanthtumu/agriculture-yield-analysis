@@ -87,7 +87,7 @@ Repository Contents:
 
 Conclusion:
 
-This project demonstrates end-to-end data analysis capability, including data preparation, metric engineering, time-based performance comparison, and executive-level dashboard reporting
+This project demonstrates end-to-end data analysis capability, including data preparation, metric engineering, time-based performance comparison, and executive-level dashboard reporting.
 
 Data Processing Pipeline:
 
