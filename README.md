@@ -91,4 +91,4 @@ This project demonstrates end-to-end data analysis capability, including data pr
 
 Data Processing Pipeline:
 
-Raw Data → SQL Cleaning → Feature Engineering → Power BI Dashboard → Strategic Insights
+Raw Data → SQL Cleaning → Feature Engineering → Power BI Dashboard → Strategic Insights.
